@@ -152,22 +152,11 @@ def var2():
  
 
      return(var2())'''
-
-
-#print("You choosed",aa)
-
-# print(rizwan())
-
-
-# print(menu)
-
 #aa = int(input("\nEnter your choice\n"))
 
 print(starting())
 
 
-#print("\nThe computer has choosed : ",var)
 
-# print(rizwan())
 
 # My name is Shaikh Rizwan ali. And I love to code. Currntly I am writing simple games and tools using Python. I have made one calculator that can Add, Subtract, Multiply the numbers. I have also masde one Stone Paper Scissor game.
