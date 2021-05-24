@@ -1,6 +1,6 @@
 import random
 import time
-
+# This is the verison 2.0 of the rps. This is just for the testing purposes.
 # This file is made to play stone paper scissor with computer
 
 time.sleep(1)
